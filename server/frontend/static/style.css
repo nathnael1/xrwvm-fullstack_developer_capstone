@@ -2,7 +2,27 @@ img{
   width: 60%;
   align-self: center;
 }
+.top img{
+    display: block;
+    width:50%;
+    margin:1% auto;
+}
+.hr-center{
+    display:block;
+    width:100%;
+    margin:0 auto;
 
+}
+.bottom{
+    width:100% !important ;
+}
+h5{
+    color:#00ffff;
+}
+.right *{
+    text-align: right;
+    list-style-type: none;
+}
 .card{
   border: rgb(103, 102, 105) 3px solid;
   display: flex;  
