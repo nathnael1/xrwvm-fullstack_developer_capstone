@@ -1,2 +1,2 @@
-# Dealership_Finsl_project
+# Dealership_Final_project
 This project contains frontend with react and backend with mongodb and django 
